@@ -29,7 +29,7 @@ RadiumCrypt is an experimental post-quantum-ready encryption framework that wrap
   All crypto is standard, hardened, and audited. RadiumCrypt just handles the logic scaffolding.
 
 ---
-
+> For information on frontend development, cryptographic details, and more, please read the [Wiki](Home)
 ## Why?
 
 Quantum computers are coming. A lot of people pretend AES-only is fine. It’s not. RadiumCrypt doesn’t replace AES, I believe that's unnecessary. It **amplifies** it by wrapping it in a structure that resists parallelism and other modern vulnerabilities.
@@ -73,7 +73,10 @@ RadiumCrypt is **NOT READY FOR PRODUCTION**. Do **NOT** use it for anything crit
 - **Let the nerds build it now, let the quantum devs port it later.**
 
 ---
-
 ## License
 
 MIT. Open to community input. FOSS is peak.
+
+---
+
+For more information, please read the [Wiki](Home)
