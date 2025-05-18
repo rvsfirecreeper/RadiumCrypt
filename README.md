@@ -79,4 +79,4 @@ MIT. Open to community input. FOSS is peak.
 
 ---
 
-For more information, please read the [Wiki](Home)
+For more information, please read the [Wiki](../../wiki)
